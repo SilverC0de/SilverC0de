@@ -6,12 +6,12 @@
 const Silver = require('bombastic-silver');
 //Let's import the package
 
-
 Silver.init({
     name: 'Balogun Silver',
     gender: 'Male'
     pronouns: 'Try/Me',
-    location: 'Lagos/Nigeria'
+    location: 'Lagos/Nigeria',
+    profession: 'Backend Engineer'
 });
 
 //it works dfkm
@@ -23,13 +23,9 @@ Silver.init({
         
 <br>
 
-### What I do?
-A backend software engineer by default. An android developer by mistake and a product manager as an escape plan (An escape plan out of the trenches lmao)
-
-<br>
-
 ### Who am I?
 - 🫢 A weirdo
+- 🚀 Senior Backend Engineer
 - 😎 Self taught badass
 - 🥹 Obsessed about building scalable backend achitecture
 - 📚 I read a lot on psychology and system design
