@@ -39,7 +39,7 @@ Silver.init({
 
 <br>
 
-| <a href="https://github.com/silverc0de"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SilverC0de&hide=prs,issues&hide_border=true" /></a> | <a href="https://github.com/silverc0de"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=silverc0de&theme=default&hide_border=true" /></a> |
+| <a href="https://github.com/silverc0de"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SilverC0de&hide=issues&hide_border=true" /></a> | <a href="https://github.com/silverc0de"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=silverc0de&theme=default&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <br>
