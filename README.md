@@ -1,4 +1,4 @@
-<h1 align="center">Hii🤘, I'm Balogun Silver 🧑‍💻</h1>
+<h1 align="center">Hii🤘  I'm Balogun Silver 🧑‍💻</h1>
 
 <br>
 
@@ -26,8 +26,8 @@ Silver.init({
 - 🚀 Always getting shit done
 - 😎 Self taught badass
 - 🥹 Obsessed about building scalable backend achitecture
-- 📚 I read a lot on psychology and system design
 - 👓 I’m currently learning Golang
+- 📚 I read a lot on psychology and system design
 - 🎵 I play the piano with my free time
 
 <br>
