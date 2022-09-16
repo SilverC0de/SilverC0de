@@ -20,8 +20,6 @@ Silver.init({
 <p align="center">
   <img align="right" height="100%" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </p>
-        
-<br>
 
 ### Who am I?
 - 🫢 A weirdo
