@@ -28,7 +28,7 @@ Silver.init({
 - 🥹 Obsessed about building scalable backend achitecture
 - 📚 I read a lot on psychology and system design
 - 👓 I’m currently learning Golang
-- 🎵 I play keyboard with my free time
+- 🎵 I play the piano with my free time
 
 <br>
 
