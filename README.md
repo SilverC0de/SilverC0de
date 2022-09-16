@@ -47,7 +47,7 @@ A backend software engineer by default. An android developer by mistake and a pr
 
 
 <a href="https://github.com/silverc0de">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SilverC0de" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SilverC0de&hide=prs,issues" />
 </a>
 
 <a href="https://github.com/silverc0de">
@@ -57,5 +57,5 @@ A backend software engineer by default. An android developer by mistake and a pr
 <br></br>
 
 <a href="https://github.com/silverc0de">
-  <img align="right" src="https://komarev.com/ghpvc/?username=silverc0de&label=Profile%20visits&color=1664C1&style=flat" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=silverc0de&label=Profile%20visits&color=5494F0&style=for-the-badge" />
 </a>
