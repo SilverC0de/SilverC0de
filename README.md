@@ -22,8 +22,8 @@ Silver.init({
 </p>
 
 ### Who am I?
-- 🫢 A weirdo
-- 🚀 Senior Backend Engineer
+- 🔙🔚 Senior Backend Engineer
+- 🚀 Always getting shit done
 - 😎 Self taught badass
 - 🥹 Obsessed about building scalable backend achitecture
 - 📚 I read a lot on psychology and system design
@@ -35,7 +35,7 @@ Silver.init({
 ### Technology Stacks
 - Language: Javascript(Node.js), Java, PHP, Golang
 - Database: MySQL, Firestore, Redis, FaunaDB
-- Infrastructure: AWS cloud achitect, Digital Ocean orchestrator
+- Infrastructure: AWS cloud computing, Digital Ocean orchestrator
 
 <br>
 
