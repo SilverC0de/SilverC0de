@@ -22,7 +22,7 @@ Silver.init({
 </p>
 
 ### Who am I?
-- 🔙🔚 Senior Backend Engineer
+- 🔙🔚 Backend Engineer
 - 🚀 Always getting shit done
 - 😎 Self taught badass
 - 🥹 Obsessed about building scalable backend achitecture
