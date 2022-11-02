@@ -3,7 +3,7 @@
 <br>
 
 ```javascript
-const Silver = require('bombastic-silver');
+const Silver = require('psychotic-silver');
 //Let's import the package
 
 
