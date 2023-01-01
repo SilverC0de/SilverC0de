@@ -2,7 +2,6 @@
 
 <br>
 
-
 ```javascript
 const Silver = require('psychotic-silver');
 //Let's import the package
