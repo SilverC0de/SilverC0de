@@ -35,7 +35,7 @@ Silver.init({
 
 ### Technology Stacks
 - Language: Javascript(Node.js), Java, PHP, Golang
-- Database: MySQL, Firestore, Redis, FaunaDB
+- Database: MySQL, MongoDB, Firestore, Redis, FaunaDB
 - Infrastructure: AWS cloud computing, Digital Ocean orchestrator 
 
 <br>
